@@ -5,7 +5,7 @@ I've been actively learning and applying **process simulation techniques** using
 
 ## 📌 Objective
 
-To gain hands-on experience in simulating various unit operations and process systems commonly used in chemical engineering. This my friend Ashis Sutradhar Nitai's guided training helps reinforce my understanding of mass and energy balances, separation processes, and more.
+To gain hands-on experience in simulating various unit operations and process systems commonly used in chemical engineering. This, my friend Ashis Sutradhar Nitai's guided training, helps reinforce my understanding of mass and energy balances, separation processes, and more.
 
 ## 🛠️ Tools Used
 
@@ -40,5 +40,5 @@ To gain hands-on experience in simulating various unit operations and process sy
 
 If you're working on process modeling, feel free to connect:
 
-* 📧 Email: [your.email@example.com](dipumalitha.com)
-* 🌐 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/dipu.acce)
+* 📧 Email: [Email](dipumalitha.com)
+* 🌐 LinkedIn: [linkedin](https://linkedin.com/in/dipu.acce)
