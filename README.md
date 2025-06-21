@@ -41,4 +41,4 @@ To gain hands-on experience in simulating various unit operations and process sy
 If you're working on process modeling, feel free to connect:
 
 * 📧 Email: [Email](dipumalitha.com)
-* 🌐 LinkedIn: [linkedin](https://linkedin.com/in/dipu.acce)
+* 🌐 LinkedIn: [linkedin](https://www.linkedin.com/in/dipu-acce/)
