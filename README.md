@@ -31,10 +31,12 @@ To gain hands-on experience in simulating various unit operations and process sy
 
 ## 🎯 Learning Outcomes
 
+* Basic idea about chemical process system and introduction of Unisim
+* Design and process simulation of seperation systems
+* Optimization and equipment sizing process systems
+* Simulation of chemical reactors
+* Dynamic and control reactors
 * Built and debugged multiple process flow diagrams
-* Applied thermodynamic packages and property estimations
-* Analyzed material and energy balances
-* Understood design vs rating modes for heat exchangers and columns
 
 ## 🔗 Connect with Me
 
